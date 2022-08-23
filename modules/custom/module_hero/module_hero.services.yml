@@ -1,0 +1,3 @@
+services:
+  module_hero.hero_add:
+    class: Drupal\module_hero\HeroAddService
